@@ -1,0 +1,10 @@
+alabaster
+matplotlib
+networkx
+numpy
+Pygments
+pytest
+scipy
+Sphinx
+sphinxcontrib-bibtex
+xlrd
